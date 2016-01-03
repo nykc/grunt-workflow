@@ -1,0 +1,52 @@
+# ==============================
+# Common.gitignore
+# Version: 1.0.0 | 2015-11-11
+# Author: Derek Ackley
+# Twitter: @nykc77
+# License: MIT
+# ==============================
+
+.sass-cache
+node_modules
+bower_components
+build
+dist
+
+# Compiled Source #
+# =============== #
+
+*.com
+*.class
+*.dll
+*.o
+*.so
+
+# Packages #
+# ======== #
+
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+# ================== #
+
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+# ================== #
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ethumbs.db
+Thumbs.db

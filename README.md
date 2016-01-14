@@ -10,6 +10,7 @@ Grunt Boilerplate is a framework for front-end development using the Grunt task 
 
 - Dependencies: node, sass, grunt, bower
 - To install run npm install
+- run bower install to use any bower dependencies (optional)
 - Type grunt in your terminal to build the site and watch files
 
 The directory structure is as follows:

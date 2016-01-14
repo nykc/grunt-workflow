@@ -1,0 +1,19 @@
+$palettes: (
+
+);
+
+$z-index: (
+
+);
+
+$fallback: Helvetica, Arial, sans-serif;
+$regular: '', $fallback;
+$reg: $regular;
+
+// BREAKPOINTS
+$hi-res: min-resolution 1.5dppx;
+$mobile-wide: 480px;
+$tablet-narrow: 720px;
+$tablet-wide: 1024px;
+$laptop: 1200px;
+$desktop: 1600px;

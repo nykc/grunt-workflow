@@ -25,6 +25,17 @@ The directory structure is as follows:
 
 **dist:** contains the output production files once ready for release
 
+## Grunt Tasks
+
+The following commands are currently used for this workflow.
+
+**grunt** - default task creates files in a build directory to mimick a production environment.
+
+**grunt build** - creates a dist/ directory to deliver production code.
+
+**grunt clean** - cleans/deletes the build/ dist/ directories.
+
+
 ### Changelog
 
 Releases follow [Semantic Versioning](http://semver.org) MMP (Major, Minor, Patch). Date is in YYYY-MM-DD format.

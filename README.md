@@ -1,10 +1,10 @@
-# Grunt Boilerplate v0.1.0
+# Grunt Workflow v0.1.0
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-## About Grunt Boilerplate
+## About Grunt Workflow
 
-Grunt Boilerplate is a framework for front-end development using the Grunt task manager. The goal is to speed up development and automate repetitive tasks.
+Grunt Workflow is a framework for front-end development using the Grunt task manager. The goal is to speed up development and automate repetitive tasks.
 
 ## Using Grunt as a taskrunner
 

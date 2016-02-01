@@ -10,7 +10,7 @@ module.exports = {
   },
   jade: {
     files: ['<%= files.jade.src %>'],
-    tasks: ['newer:jade']
+    tasks: ['jade']
   },
   css: {
     files: ['app/**/*.scss'],

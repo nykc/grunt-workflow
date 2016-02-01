@@ -3,7 +3,7 @@
 module.exports = function(grunt) {
   grunt.registerTask('default', [
     'sass:dev',
-    'newer:jade',
+    'jade',
     'newer:imagemin:dev',
     'jshint',
     'concat',
